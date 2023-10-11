@@ -1,0 +1,25 @@
+{
+  "name": "ton-utils",
+  "version": "0.0.1",
+  "description": "Helpful utils for TON development",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignatsyuk/ton-utils.git"
+  },
+  "keywords": [
+    "ton",
+    "utils",
+    "client"
+  ],
+  "author": "merik",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ignatsyuk/ton-utils/issues"
+  },
+  "homepage": "https://github.com/Ignatsyuk/ton-utils#readme",
+  "dependencies": {
+    "ton-wallet-utils": "^2.70.0"
+  }
+}
